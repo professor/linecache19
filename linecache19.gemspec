@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "version"
 
 Gem::Specification.new do |s|
-  s.name        = "linecache"
+  s.name        = "linecache19"
   s.version     = LineCache::VERSION
   s.authors     = ["R. Bernstein", "Mark Moseley"]
   s.email       = ["rockyb@rubyforge.net", "mark@fast-software.com"]
