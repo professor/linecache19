@@ -4,7 +4,7 @@ require "version"
 
 Gem::Specification.new do |s|
   s.name        = "linecache"
-  s.version     = Linecache::VERSION
+  s.version     = LineCache::VERSION
   s.authors     = ["R. Bernstein", "Mark Moseley"]
   s.email       = ["rockyb@rubyforge.net", "mark@fast-software.com"]
   s.homepage    = %q{http://rubyforge.org/projects/ruby-debug19}
